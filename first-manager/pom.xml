@@ -8,14 +8,13 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-
+    <!--<version>1.0-SNAPSHOT</version>-->
     <artifactId>first-manager</artifactId>
     <modules>
         <module>first-manager-dao</module>
         <module>first-manager-pojo</module>
         <module>first-manager-service</module>
         <module>first-manager-interface</module>
-        <module>first-manager-web</module>
     </modules>
 
     <dependencies>
